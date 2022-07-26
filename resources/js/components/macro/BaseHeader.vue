@@ -6,7 +6,7 @@
             <h2>MyBlog</h2>
             </div>
             <div class="col-6">
-                
+
             </div>
         </div>
     </div>
@@ -19,6 +19,8 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="scss">
+    header{
+        padding: .625rem 0;
+    }
 </style>
